@@ -19,6 +19,8 @@ public class YADP extends JavaPlugin {
 	private Logger log = Logger.getLogger("Minecraft");
 	
 	public static boolean debug = false;
+	
+	//test comment
 
 	static HashMap<String, Material> tools = new HashMap<String, Material>();
 
